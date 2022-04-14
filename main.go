@@ -9,7 +9,7 @@ import (
 func main() {
 	coin := os.Args[1]
 
-	keysPerPage := 128
+	keysPerPage := 904625697166532776746648320380374280100293470930272690489102837043110636675
 
 	switch coin {
 	case "btc":
